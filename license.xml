@@ -1,0 +1,51 @@
+<ApplicationsLicenses>
+  <ApplicationLicense id="Invoicing11.0FR40" version="11.0" productId="2374917D-E793-434E-BF8D-CBF0BC18316A">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510564</LicenseNumber>
+    <WebKey>CW8544</WebKey>
+    <ActivationCode>FTHT-KJ9K-4HXF-W971</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="Payroll11.0FR40" version="11.0" productId="491492D9-4FBC-4F70-85D5-985B6BF7851F">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510568</LicenseNumber>
+    <WebKey>CW4140</WebKey>
+    <ActivationCode>6KX7-G3HR-TXW6-G4JT</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="CRM11.0FR40" version="11.0" productId="FA9587FA-54D4-419a-B526-83AB8E5083C2">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510567</LicenseNumber>
+    <WebKey>CW8556</WebKey>
+    <ActivationCode>HTHX-7THF-77T6-KTT3</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="CapitalAsset11.0FR40" version="11.0" productId="32FDD551-13BE-40ff-997D-55988A7F85DC">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510566</LicenseNumber>
+    <WebKey>CW8043</WebKey>
+    <ActivationCode>GF37-TTJK-JHXF-KX39</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="FinState12.0FR30" version="12.0" productId="3A710C84-F88F-4b9e-995D-107DEDC0E15F">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510569</LicenseNumber>
+    <WebKey>CW5556</WebKey>
+    <ActivationCode>FJ9J-3W96-19FX-94JR</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="BusinessPlan11.0FR20" version="11.0" productId="1097D8BF-DFDA-430F-88FC-8A84863F50ED">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510570</LicenseNumber>
+    <WebKey>CW5213</WebKey>
+    <ActivationCode>R1TG-WWW1-RTJ2-KKJ2</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+  <ApplicationLicense id="Accounting11.0FR40" version="11.0" productId="8938492B-F049-4957-BB8E-71FE66DB6845">
+    <CompanyName>H3 CAMPUS</CompanyName>
+    <LicenseNumber>15510565</LicenseNumber>
+    <WebKey>CW6262</WebKey>
+    <ActivationCode>4K6G-GX99-973H-R377</ActivationCode>
+    <Country>FR</Country>
+  </ApplicationLicense>
+</ApplicationsLicenses>

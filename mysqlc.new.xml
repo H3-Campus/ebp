@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MySqlNewWizardEntity EntityGuid="46a128e8-ed66-42ee-89ed-1723c0a5db0b">
+  <MultiUser>False</MultiUser>
+  <SingleShortcut>False</SingleShortcut>
+  <DatabaseName>Test_EBP</DatabaseName>
+  <ApiInterfaceSchemaPrefix />
+  <Connection.ServerAddress>192.168.170.222</Connection.ServerAddress>
+  <Connection.ServerPort>3306</Connection.ServerPort>
+  <Connection.UserID>ebp</Connection.UserID>
+  <Connection.EncryptedPwd>F3543F268E78FF99</Connection.EncryptedPwd>
+  <CreatedDate>2020-09-25T14:56:00</CreatedDate>
+  <CreatedUser />
+  <ModifiedDate>2020-09-25T14:56:00</ModifiedDate>
+  <ModifiedUser />
+</MySqlNewWizardEntity>
