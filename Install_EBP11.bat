@@ -1,8 +1,8 @@
 @echo off
 
-set repository=D:\Softs\EBP2019\
+set repository=.
 
-Set LicenseXml=D:\Softs\EBP2019\
+Set LicenseXml=.
 
 Echo "Installation ...."
 
@@ -144,7 +144,7 @@ REM **Arret Automatique du poste **************************************
 
 REM ********************************************************************
 
-REM Shutdown /s -t 100
+REM shutdown /s -t 100
 
   
 
